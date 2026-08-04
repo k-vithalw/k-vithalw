@@ -30,7 +30,7 @@ Java • Data Structures & Algorithms
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
 <img align="left" hspace="80" alt="Quote of the Day" width="250"
-src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br>
+src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br><br>
 <p align="center">
     <img
     width="90%"
@@ -79,8 +79,8 @@ src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif">
 </p>
 
 <p align="center">
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="360"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="360"/>
 </p>
 
 # 💻 Learning Tech-Stack:
