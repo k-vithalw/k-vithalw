@@ -11,57 +11,70 @@
 <div align="center">
 <img src="./assets/Greetings-Name.gif" alt="Vithal Kondekar Banner" width="100%" />
   
-> **⟢ 𝑴𝑪𝑨 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂, 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 & 𝑪𝒍𝒐𝒖𝒅 ⟣**
+> **⟢ 𝑴𝑪𝑨 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂, 𝑴𝑬𝑹𝑵 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 & 𝑪𝒍𝒐𝒖𝒅 ⟣**
 </div>
 
+<img align="right" alt="Coding Hippie" width="420" src="./assets/Coding-Hippie.gif">
 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 <br>
-Neo Skylark – AI-Powered Tactical Drone Marketplace (Academic Prototype) <br>
+Neo Skylark – AI-Powered Tactical Drone Marketplace〖 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲 〗<br>
 https://github.com/k-vithalw/neo-skylark
 
 📄 𝗞𝗻𝗼𝘄 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 (RESUME) <br>
-https://drive.google.com/file/d/your-resume-link/view
+https://drive.google.com/file/d/your-resume-link/view 
 
 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 <br>
-Java • Data Structures & Algorithms
+Java • Data Structures & Algorithms 
 
 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 <br>
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
-## 💭 Quote of the Day
 <p align="left">
   <img
-    width="60%"
+    width="70%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random Dev Quote"
   />
 </p>
 
-## 🌐 Connect With Me:
-<p align="left">
+<p align="center">
 
-<a href="mailto:k.vithalw@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="email" height="30" width="40" />
+<a href="mailto:k.vithalw@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="36"/>
 </a>
-
-<a href="https://linkedin.com/in/vithal-kondekar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vithal-kondekar" height="30" width="40" />
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/vithal-kondekar">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36"/>
 </a>
-
-<a href="https://instagram.com/k_vithal.w" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_vithal.w" height="30" width="40" />
+&nbsp;&nbsp;
+<a href="https://instagram.com/k_vithal.w">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36"/>
 </a>
-
-<a href="https://www.codechef.com/users/k_vithalw" target="blank">
-<span style="background:#ffffff; padding:4px; border-radius:5px; display:inline-block;">
-<img align="center" src="https://cdn.simpleicons.org/codechef/5B4638" alt="k_vithalw" height="30" width="40" />
-</span>
+&nbsp;&nbsp;
+<a href="https://github.com/k-vithalw">
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/k_vithalw">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" height="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://your-portfolio-link.com">
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/yourusername">
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/yourusername">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36"/>
 </a>
 
 </p>
 
 <p align="center">
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="300"/>
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="300"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="450"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="450"/>
 </p>
 
 # 💻 Learning Tech-Stack:
