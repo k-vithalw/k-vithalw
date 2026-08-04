@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="./assets/ᓚᘏᗢ GitHub-Banner Design.gif" alt="Vithal Kondekar Banner" width="100%" />
+  <kbd>
+    <img
+      src="./assets/ᓚᘏᗢ GitHub-Banner Design.gif"
+      alt="Vithal Kondekar Banner"
+      width="100%"
+    />
+  </kbd>
 </p>
 
 <div align="center">
-
-# ◤ 𝑯𝒆𝒚 👋, 𝑰'𝒎 𝑽𝒊𝒕𝒉𝒂𝒍 𝑲𝒐𝒏𝒅𝒆𝒌𝒂𝒓 ◢
-
-### 𝑴𝑪𝑨 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂, 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 & 𝑪𝒍𝒐𝒖𝒅.
-
+<img src="./assets/Greetings-Name.gif" alt="Vithal Kondekar Banner" width="100%" />
+  
+> **⟢ 𝑴𝑪𝑨 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂, 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 & 𝑪𝒍𝒐𝒖𝒅 ⟣**
 </div>
 
 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 <br>
@@ -56,8 +60,8 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 </p>
 
 <p align="center">
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="500"/>
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="500"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="300"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="300"/>
 </p>
 
 # 💻 Learning Tech-Stack:
