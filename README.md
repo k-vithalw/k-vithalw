@@ -30,7 +30,7 @@ Java • Data Structures & Algorithms
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
 <img align="left" hspace="80" alt="Quote of the Day" width="250"
-src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br><br><br>
+src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br>
 <p align="center">
     <img
     width="90%"
