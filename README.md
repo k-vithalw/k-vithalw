@@ -29,15 +29,15 @@ Java • Data Structures & Algorithms
 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 <br>
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
-<img align="left" hspace="80" alt="Quote of the Day" width="250"
+<img align="left" hspace="80" alt="Quote of the Day" width="210"
 src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br><br>
 <p align="center">
     <img
-    width="90%"
+    width="80%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random Dev Quote"    
   />
-  <img align="right" hspace="80" alt="Quote of the Day" width="250"
+  <img align="right" hspace="80" alt="Quote of the Day" width="210"
 src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif">
 
 </p>
