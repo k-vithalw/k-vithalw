@@ -15,6 +15,7 @@
 </div>
 
 <img align="right" alt="Coding Hippie" width="420" src="./assets/Coding-Hippie.gif">
+
 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 <br>
 Neo Skylark – AI-Powered Tactical Drone Marketplace〖 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲 〗<br>
 https://github.com/k-vithalw/neo-skylark
@@ -28,12 +29,17 @@ Java • Data Structures & Algorithms
 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 <br>
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
-<p align="left">
+<img align="left" hspace="80" alt="Quote of the Day" width="250"
+src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br><br>
+
+<p align="center">
   <img
-    width="70%"
+    width="90%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Random Dev Quote"
-  />
+    alt="Random Dev Quote"    
+  /> <br> <img align="right" hspace="80" alt="Quote of the Day" width="250"
+src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif">
+
 </p>
 
 <p align="center">
