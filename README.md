@@ -37,7 +37,7 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 
   <img align="left"
        src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false"
-      width="500"/>
+      width="650"/>
 
   <br clear="both">
        
@@ -48,25 +48,12 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
        src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15" />
 
 <img align="left"
-       src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=220"
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=350"
        height="165"
        hspace="12" />
 
 <br clear="both">
 <br clear="both">
-
-# 📊 GitHub Stats:
-<div align="left">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border_radius=20" width="300" />
-
-  <img src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false" width="500" />
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=220" height="165" />
-
-  <img src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
 
 <p align="center">
   <img align="center" alt="Connect Me button" width="150"
