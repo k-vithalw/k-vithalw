@@ -33,24 +33,30 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 <p>
   <img align="left"
        src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border_radius=20"
-       width="300" />
+       width="300"
+       alt="Quote" />
 
   <img align="left"
        src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false"
-      width="500"/>
-
-  <br clear="both">
-       
-  
+       width="500"
+       alt="GitHub Stats" />
 </p>
 
-<img align="left"
-       src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15" />
+<br clear="both" />
+<br clear="both">
 
-<img align="left"
+<p>
+  <img align="left"
+       src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15"
+       width="500"
+       alt="GitHub Streak" />
+
+  
+  <img align="left"
        src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=250"
        height="165"
-       hspace="12" />
+       alt="Top Languages" />
+</p>
 
 <br clear="both">
 <br clear="both">
