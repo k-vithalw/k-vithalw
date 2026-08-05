@@ -42,8 +42,11 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
        alt="GitHub Stats" />
 </p>
 
-<br clear="both" />
-<br clear="both">
+<p align="left">
+
+  <img src="./assets/🔥Fire Graph-Bar.gif" alt="Graph Gif file" width="500" />
+
+</p>
 
 <p>
   <img align="left"
