@@ -37,7 +37,7 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 
   <img align="left"
        src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false"
-      width="650"/>
+      width="550"/>
 
   <br clear="both">
        
