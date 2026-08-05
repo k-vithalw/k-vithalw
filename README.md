@@ -17,7 +17,7 @@
 <img align="right" alt="Coding Hippie" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 :<br>
-Neo Skylark – AI-Powered Tactical Drone Marketplace〖 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲 〗<br>
+Neo Skylark – AI-Powered Tactical Drone Marketplace〖 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 〗<br>
 https://github.com/k-vithalw/neo-skylark
 
 📄 𝗞𝗻𝗼𝘄 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 (RESUME) :<br>
