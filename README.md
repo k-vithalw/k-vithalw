@@ -14,90 +14,112 @@
 > **⟢ 𝑴𝑪𝑨 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂, 𝑴𝑬𝑹𝑵 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 & 𝑪𝒍𝒐𝒖𝒅 ⟣**
 </div>
 
-<img align="right" alt="Coding Hippie" width="350" src="./assets/Coding-Hippie.gif">
+<img align="right" alt="Coding Hippie" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 <br>
+🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 :<br>
 Neo Skylark – AI-Powered Tactical Drone Marketplace〖 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲 〗<br>
 https://github.com/k-vithalw/neo-skylark
 
-📄 𝗞𝗻𝗼𝘄 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 (RESUME) <br>
+📄 𝗞𝗻𝗼𝘄 𝗮𝗯𝗼𝘂𝘁 𝗺𝘆 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 (RESUME) :<br>
 https://drive.google.com/file/d/your-resume-link/view 
 
-🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 <br>
+🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 :<br>
 Java • Data Structures & Algorithms 
 
-💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 <br>
+💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 :<br>
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
-> ## Quote Of the Day :
+> ## << Quote Of the Day >>
+<p>
+  <img align="left"
+       src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border_radius=20"
+       width="300" />
+
+  <img align="left"
+       src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false"
+      width="500"/>
+
+  <br clear="both">
+       
+  
+</p>
+
+<img align="left"
+       src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img align="left"
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=220"
+       height="165"
+       hspace="12" />
+
+<br clear="both">
+<br clear="both">
+
+# 📊 GitHub Stats:
+<div align="left">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border_radius=20" width="300" />
+
+  <img src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false" width="500" />
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=220" height="165" />
+
+  <img src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
 
 <p align="center">
-    <img
-    width="90%"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Random Dev Quote"    
-  /> <br>
- </p>
-
-<p align="center">
+  <img align="center" alt="Connect Me button" width="150"
+src="./assets/PollowCards Connect Me.gif">
+  <br> 
   <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
   <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
 </p> 
- <img align="right" hspace="150" alt="Connect Me button" width="180"
-src="./assets/Connect-With-Me.gif">
+ 
 
 <p align="center">
 
 <a href="mailto:k.vithalw@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" height="36"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/vithal-kondekar">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/k_vithal.w">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/k-vithalw">
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="36"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.codechef.com/users/k_vithalw">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" height="36"/>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://your-portfolio-link.com">
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="36"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/yourusername">
-  <img src="https://cdn.simpleicons.org/x/ffffff" height="36"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/yourusername">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36"/>
-</a>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/> 
+</a> <br>
+<img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
+<img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
 </p>
 
-<p align="center">
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
-</p>
+<div align="center">
 
-# 💻 Learning Tech-Stack:
+> # Learning Tech-Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="500"/>
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="500"/>
-</p>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) <img src="assets/Laptop-Stats.gif" alt="Coding Animation" width="240" />
-
-![](https://streak-stats.demolab.com/?user=k-vithalw&theme=tokyonight&hide_border=false)
+</div>
 
 
 <h3 align="center">╭───────────────────────── 💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲  ─────────────────────────╮</h3>
