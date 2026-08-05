@@ -29,18 +29,22 @@ Java • Data Structures & Algorithms
 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 <br>
 Java Basics • Full Stack Learning Journey • Neo Skylark
 
-<img align="left" hspace="80" alt="Quote of the Day" width="210"
-src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif"> <br><br>
+> ## Quote Of the Day :
+
 <p align="center">
     <img
-    width="80%"
+    width="90%"
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random Dev Quote"    
-  />
-  <img align="right" hspace="80" alt="Quote of the Day" width="210"
-src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif">
+  /> <br>
+ </p>
 
-</p>
+<p align="center">
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
+</p> 
+ <img align="right" hspace="150" alt="Connect Me button" width="180"
+src="./assets/Connect-With-Me.gif">
 
 <p align="center">
 
@@ -75,12 +79,11 @@ src="./assets/QuoteOftheDay-ezgif.com-remove-background.gif">
 <a href="https://leetcode.com/yourusername">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="36"/>
 </a>
-
 </p>
 
 <p align="center">
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="360"/>
-  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="360"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
+  <img src="assets/RGB-Running-Bar.gif" alt="Coding Animation" width="350"/>
 </p>
 
 # 💻 Learning Tech-Stack:
