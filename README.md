@@ -9,12 +9,12 @@
 </p>
 
 <div align="center">
-<img src="./assets/Greetings-Name.gif" alt="Vithal Kondekar Banner" width="100%" />
+<img src="./assets/Greetings-Name(VITHAL).gif" alt="Vithal Kondekar Banner" width="100%" />
   
 > **⟢ 𝑴𝑪𝑨 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂, 𝑴𝑬𝑹𝑵 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 & 𝑪𝒍𝒐𝒖𝒅 ⟣**
 </div>
 
-<img align="right" alt="Coding Hippie" width="420" src="./assets/Coding-Hippie.gif">
+<img align="right" alt="Coding Hippie" width="350" src="./assets/Coding-Hippie.gif">
 
 🔭 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 <br>
 Neo Skylark – AI-Powered Tactical Drone Marketplace〖 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲 〗<br>
