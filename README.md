@@ -67,15 +67,11 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 <!--              STREAK & LANGUAGES              -->
 <!-- ============================================ -->
 
-<br clear="both">
-
 <p>
   <img align="left"
        src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15"
        width="450"
        alt="GitHub Streak" />
-
-<br clear="both">
 
   <img align="left"
        src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=250"
