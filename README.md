@@ -63,8 +63,6 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
   <img src="./assets/🔥Fire Graph-Bar.gif" alt="Graph Gif file" width="500" />
 </p>
 
-<br clear="both">
-
 <!-- ============================================ -->
 <!--              STREAK & LANGUAGES              -->
 <!-- ============================================ -->
