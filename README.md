@@ -67,6 +67,8 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 <!--              STREAK & LANGUAGES              -->
 <!-- ============================================ -->
 
+<br clear="both">
+
 <p>
   <img align="left"
        src="https://streak-stats.demolab.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15"
