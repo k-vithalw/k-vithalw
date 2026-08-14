@@ -53,7 +53,7 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
        width="300"
        alt="Quote" />
 
-  <img align="center"
+  <img align="left"
        src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false"
        width="500"
        alt="GitHub Stats" />
@@ -183,7 +183,7 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 <h3> ◆ 𝗖𝗮𝗿𝗲𝗲𝗿 𝗚𝗼𝗮𝗹 • Software Engineer → Backend → DevOps → Cloud Architect</h3>
 
 > **◈ <ins>𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑷𝒓𝒆𝒗𝒊𝒆𝒘 : 🔗 𝑳𝒊𝒏𝒌</ins> ◈** <br>
-> ⫷ 𝗡𝗲𝗼 𝗦𝗸𝘆𝗹𝗮𝗿𝗸  𝑨𝑰-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑻𝒂𝒄𝒕𝒊𝒄𝒂𝒍 𝑫𝒓𝒐𝒏𝒆 𝑴𝒂𝒓𝒌𝒆𝒕𝒑𝒍𝒂𝒄𝒆 ⫸ ❰ 𝑨𝒄𝒂𝒅𝒆𝒎𝒊𝒄 𝑷𝒓𝒐𝒕𝒐𝒕𝒚𝒑𝒆 ❱
+> ⫷ 𝗡𝗲𝗼 𝗦𝗸𝘆𝗹𝗮𝗿𝗸  𝑨𝑰-𝑷𝒐𝘄𝘦𝘳𝘦𝘥 𝑻𝒂𝒄𝒕𝒊𝒄𝒂𝒍 𝑫𝒓𝒐𝒏𝒆 𝑴𝒂𝒓𝒌𝒆𝒕𝒑𝒍𝒂𝒄𝒆 ⫸ ❰ 𝑨𝒄𝒂𝒅𝒆𝒎𝒊𝒄 𝑷𝒓𝒐𝒕𝒐𝒕𝒚𝒑𝒆 ❱
 
 </div>
 
