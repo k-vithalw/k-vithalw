@@ -47,9 +47,17 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 
 > ## << Quote Of the Day >>
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border_radius=20)](https://github.com/piyushsuthar/github-readme-quotes)
+<p>
+  <img align="left"
+       src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border_radius=20"
+       width="300"
+       alt="Quote" />
 
-[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center"
+       src="https://github-readme-stats.shion.dev/api?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false"
+       width="500"
+       alt="GitHub Stats" />
+</p>
 
 <p align="left">
   <img src="./assets/🔥Fire Graph-Bar.gif" alt="Graph Gif file" width="500" />
@@ -59,12 +67,16 @@ Java Basics • Full Stack Learning Journey • Neo Skylark
 <!--              STREAK & LANGUAGES              -->
 <!-- ============================================ -->
 
-<p>  
-  
-  [![GitHub Streak](https://ghstats.onuralpsezer.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=20&card_width=500)](https://git.io/streak-stats)
+<p align="center">
+  <img align="left"
+       src="https://ghstats.onuralpsezer.com?user=k-vithalw&theme=tokyonight&hide_border=true&border_radius=20&card_width=500"
+       width="500"
+       alt="GitHub Streak" />
 
- [![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
- 
+  <img align="center"
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-vithalw&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=false&count_private=false&layout=compact&card_width=250"
+       height="165"
+       alt="Top Languages" />
 </p>
 
 <br clear="both">
